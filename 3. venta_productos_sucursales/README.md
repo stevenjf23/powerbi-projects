@@ -14,4 +14,4 @@ El objetivo principal es identificar patrones de crecimiento interanual durante 
 * **Jerarquía Temporal:** Visualizaciones configuradas para navegar desde Año y Trimestre hasta el detalle mensual.
 * **Segmentación Avanzada:** Filtros dinámicos para una amplia gama de categorías (Líquidos, Conservas, Abarrotes).
 * **Modelado Multivariable:** Gráficos de líneas de tendencia que permiten comparar múltiples sucursales y regiones de forma simultánea.
-* **Análisis de Mix de Ventas:** Gráficos de barras optimizados para el ranking de productos más vendidos (Top SKUs).
+* **Análisis de Mix de Ventas:** Gráficos de barras optimizados para el ranking de productos más vendidos.
