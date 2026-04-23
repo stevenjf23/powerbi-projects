@@ -4,13 +4,6 @@
 
 ![Banner del Portafolio](./pbi.png)
 
----
-
-## 🚀 Sobre mí
-Soy un apasionado del análisis de datos con enfoque en la creación de dashboards dinámicos. Utilizo herramientas como **Power BI (DAX, Power Query)**, **SQL** y **Excel** para extraer insights valiosos.
-
----
-
 ## 📂 Proyectos Destacados
 
 A continuación, puedes explorar mis análisis detallados:
@@ -21,18 +14,10 @@ A continuación, puedes explorar mis análisis detallados:
 4. **[Venta de Productos Electro](./4.%20venta_productos_electro)** - Análisis de tendencias en artículos electrónicos y tecnología.
 5. **[Venta Sucursal](./5.%20venta_sucursal)** - Enfoque detallado en la eficiencia operativa de puntos de venta.
 
----
-
-## 🛠️ Habilidades Técnicas
-* **Modelado de Datos:** Esquemas en estrella y limpieza con Power Query.
-* **DAX:** Creación de medidas dinámicas y KPIs de negocio.
-* **UI/UX:** Diseño de reportes intuitivos y fáciles de navegar.
-
----
 
 ## 📫 Contacto
 * **LinkedIn:** [Tu Nombre](https://www.linkedin.com/in/tu-perfil)
-* **Email:** tu-correo@ejemplo.com
+* **Email:** stevenflores260701@gmail.com
 
 ---
-*Última actualización: 2024*
+*Última actualización: 2026*
