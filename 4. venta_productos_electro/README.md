@@ -1,4 +1,4 @@
-# Dashboard de Análisis Comercial: ElectroMás (Market Insights)
+# Dashboard de Análisis Comercial: ElectroMás 
 
 ## Descripción del Proyecto
 Este dashboard interactivo representa el análisis de rendimiento de "ElectroMás", una marca especializada en tecnología y electrónica de consumo. El proyecto se enfoca en la distribución de ventas en el mercado japonés, analizando el comportamiento de los consumidores tanto en canales digitales (Online) como físicos (Tienda).
