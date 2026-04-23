@@ -16,7 +16,6 @@ A continuación, puedes explorar mis análisis detallados:
 
 
 ## 📫 Contacto
-* **LinkedIn:** [Tu Nombre](https://www.linkedin.com/in/tu-perfil)
 * **Email:** stevenflores260701@gmail.com
 
 ---
