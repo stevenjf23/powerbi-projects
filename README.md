@@ -6,7 +6,7 @@
 
 ## 📂 Proyectos Destacados
 
-A continuación, puedes explorar mis análisis detallados:
+A continuación, puedes explorar mis proyectos:
 
 1. **[Venta de Productos](./1.%20venta_productos)** 
 2. **[Venta de Productos Alimenticios](./2.%20venta_productos_alimenticios)** 
