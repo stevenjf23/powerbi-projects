@@ -10,7 +10,7 @@ Con un volumen total de **27.25 millones de unidades vendidas** y una facturaci�
 ![Análisis Estratégico de Ventas](preview_image.jpg)
 
 ## Características Técnicas
-* **Visualizaciones Avanzadas:** Gráfico de flujo para representar la continuidad y cambio en el ranking de sucursales a través del tiempo.
+* **Visualizaciones Avanzadas:** Gráfico de cintas para representar la continuidad y cambio en el ranking de sucursales a través del tiempo.
 * **Matrices de Datos Inteligentes:** Tablas comparativas con totales acumulados y desgloses anuales por región.
 * **KPIs de Alto Nivel:** Tarjetas de resumen para Unidades Vendidas y Facturación Total con formato de moneda dinámico.
 * **Filtros Temporales:** Slicer de fecha tipo escala para análisis de periodos específicos dentro del trienio 2024-2026.
