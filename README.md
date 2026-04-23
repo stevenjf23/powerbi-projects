@@ -1,4 +1,4 @@
-# 📊 Portafolio de Proyectos: Power BI & Data Analytics
+# 📊 Portafolio de Proyectos: Power BI 
 
 ¡Bienvenido/a a mi portafolio! En este repositorio comparto mis proyectos de análisis de datos desarrollados en Power BI. Mi objetivo es transformar datos complejos en visualizaciones interactivas que faciliten la toma de decisiones estratégicas.
 
