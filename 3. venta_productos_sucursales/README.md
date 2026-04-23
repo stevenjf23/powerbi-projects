@@ -2,7 +2,7 @@
 # Dashboard de Análisis de Ventas Retail: Sucursales y Canales de Consumo
 
 ## Descripción del Proyecto
-Este proyecto presenta una solución analítica avanzada para el monitoreo de ventas de productos de consumo masivo (FMCG) a gran escala. El dashboard permite desglosar el rendimiento operativo desde una perspectiva macro (Regiones y Sucursales) hasta un nivel de detalle micro (SKU específico por descripción).
+Este proyecto presenta una solución analítica avanzada para el monitoreo de ventas de productos de consumo masivo (FMCG) a gran escala. El dashboard permite desglosar el rendimiento operativo desde una perspectiva macro (Regiones y Sucursales) hasta un nivel de detalle micro.
 
 El objetivo principal es identificar patrones de crecimiento interanual durante el periodo **2024-2026**, facilitando la optimización del abastecimiento y la estrategia comercial según la zona geográfica y el comportamiento del consumidor.
 
