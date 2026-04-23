@@ -12,5 +12,5 @@ El objetivo es optimizar la toma de decisiones logística mediante el análisis 
 ##  Características Técnicas
 * **Inteligencia Geoespacial:** Uso de mapas dinámicos para la segmentación de datos por provincias y regiones.
 * **Análisis de Series Temporales:** Gráficos de tendencias lineales para evaluar el crecimiento acumulado mensual.
-* **Visualización de Ranking:** Gráficos de barras horizontales optimizados para la comparación rápida de SKU (Stock Keeping Units).
-* **Modelado de Datos:** Procesamiento de grandes volúmenes de unidades (millones) con limpieza de datos para nombres de provincias y categorías.
+* **Visualización de Ranking:** Gráficos de barras horizontales optimizados para la comparación rápida.
+* **Modelado de Datos:** Procesamiento de grandes volúmenes de unidades  con limpieza de datos para nombres de provincias y categorías.
