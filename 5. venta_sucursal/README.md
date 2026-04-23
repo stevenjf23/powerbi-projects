@@ -7,7 +7,7 @@ Este dashboard ejecutivo de Power BI proporciona un análisis profundo de la sal
 Con un volumen total de **27.25 millones de unidades vendidas** y una facturación de **$69.95 millones**, este panel está diseñado para facilitar la toma de decisiones basada en el crecimiento interanual y la participación de mercado por sucursal.
 
 ## 🖼️ Vista Previa
-![Análisis Estratégico de Ventas](image_c3a939.png)
+![Análisis Estratégico de Ventas](preview_image.png)
 
 ## Características Técnicas
 * **Visualizaciones Avanzadas:** Gráfico de flujo para representar la continuidad y cambio en el ranking de sucursales a través del tiempo.
