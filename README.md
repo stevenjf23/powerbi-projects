@@ -13,7 +13,8 @@ A continuación, puedes explorar mis proyectos:
 3. **[Venta de Productos Sucursales](./3.%20venta_productos_sucursales)** 
 4. **[Venta de Productos Electro](./4.%20venta_productos_electro)** 
 5. **[Venta Sucursal](./5.%20venta_sucursal)**
-6. **[Atencion al Cliente](./6.%20Atencion%20al%20Cliente)** 
+6. **[Atencion al Cliente](./6.%20Atencion%20al%20Cliente)**
+7. **[Set Electrodomesticos](./7.%20Set%20Electrodomesticos)** 
 
 
 ## 📫 Contacto
