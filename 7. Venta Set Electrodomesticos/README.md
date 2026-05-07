@@ -4,8 +4,6 @@
 ## 📝 Descripción del Proyecto
 Este dashboard de Power BI proporciona un análisis detallado del rendimiento de ventas basado en la **Suma de Monto**. El reporte permite desglosar los ingresos por tipo de producto y evaluar el desempeño individual de la fuerza de ventas. 
 
-El panel está diseñado para transformar datos crudos de múltiples fuentes en información accionable, permitiendo identificar qué categorías (como Grifería o Herramientas) tienen mayor peso financiero y qué asesores lideran dichas categorías.
-
 ## 🖼️ Vista Previa del Análisis
 ![Gráfico de Ventas por Descripción](imagen.png)
 *Gráfico de columnas apiladas mostrando la distribución de montos por categoría y vendedor.*
