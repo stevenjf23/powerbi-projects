@@ -1,4 +1,4 @@
-# Proyecto de Práctica – Power Query en Power BI
+# Proyecto de Práctica Datos Empleados – Power Query en Power BI
 
 ## Descripción
 Este proyecto fue desarrollado únicamente con fines de práctica y aprendizaje del uso de Power Query en Power BI.
