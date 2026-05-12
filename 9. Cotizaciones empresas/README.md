@@ -11,11 +11,11 @@ El objetivo principal fue practicar procesos de transformación, integración y 
 
 ### Power Query – Transformación de Datos
 
-![Power Query](./imagen1.png)
+![Power Query](./imagen2.png)
 
 ### Visualización de Datos en Power BI
 
-![Dashboard](./imagen2.png)
+![Dashboard](./imagen1.png)
 
 ---
 
