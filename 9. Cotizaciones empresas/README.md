@@ -60,4 +60,4 @@ Fortalecer conocimientos en procesos ETL (Extract, Transform, Load) utilizando P
 
 ## Nota
 
-Este proyecto fue realizado únicamente como práctica académica y de aprendizaje, por lo que no corresponde a un entorno productivo o empresarial real.
+Este proyecto fue realizado únicamente como práctica y de aprendizaje, por lo que no corresponde a un entorno productivo o empresarial real.
