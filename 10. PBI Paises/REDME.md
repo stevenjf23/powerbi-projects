@@ -9,7 +9,9 @@ El objetivo principal fue trabajar cálculos básicos en DAX para analizar infor
 
 ## Vista del Proyecto
 
-![Grafico de Dispersión](./grafico-dispersion.png)
+![Grafico de Dispersión](./imagen1.png)
+![Formula DAX](./imagen2.png)
+![Segunda Fomrula DAX](./imagen3.png)
 
 ---
 
