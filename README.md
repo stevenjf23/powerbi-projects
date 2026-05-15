@@ -16,7 +16,8 @@ A continuación, puedes explorar mis proyectos:
 6. **[Atencion al Cliente](./6.%20Atencion%20al%20Cliente)**
 7. **[Set Electrodomesticos](./7.%20Venta%20Set%20Electrodomesticos)**
 8. **[Fechas empleados](./8.%20fechas%20empleados)**
-9. **[Cotizaciones empresas](./9.%20Cotizaciones%20empresas)** 
+9. **[Cotizaciones empresas](./9.%20Cotizaciones%20empresas)**
+10. **[PBI Paises](./10.%20PBI%20Paises)**
 
 
 ## 📫 Contacto
