@@ -18,6 +18,7 @@ A continuación, puedes explorar mis proyectos:
 8. **[Fechas empleados](./8.%20fechas%20empleados)**
 9. **[Cotizaciones empresas](./9.%20Cotizaciones%20empresas)**
 10. **[PBI Paises](./10.%20PBI%20Paises)**
+11. **[Porcentaje Ventas](./11.%20Porcentaje%20Ventas)**
 
 
 ## 📫 Contacto
