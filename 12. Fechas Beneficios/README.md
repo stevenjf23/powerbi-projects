@@ -12,11 +12,6 @@ El objetivo principal fue analizar beneficios acumulados, comparaciones contra e
 
 ![Dashboard Beneficios](./imagen1.png)
 
----
-
-## Tecnologías Utilizadas
-- Microsoft Power BI
-- DAX (Data Analysis Expressions)
 
 ---
 
@@ -86,42 +81,6 @@ DIVIDE(
 
 ---
 
-## Actividades Realizadas
-
-Durante el desarrollo del proyecto se trabajó con:
-
-- Creación de medidas avanzadas en DAX.
-- Inteligencia de tiempo en Power BI.
-- Uso de TOTALYTD.
-- Uso de CALCULATE.
-- Uso de DATEADD.
-- Uso de SUMX.
-- Uso de RELATED.
-- Uso de DIVIDE.
-- Cálculo de beneficios acumulados.
-- Comparación de beneficios contra el año anterior.
-- Análisis de variaciones porcentuales.
-
----
-
-## Visualizaciones Implementadas
-
-Se desarrollaron visualizaciones para analizar:
-
-- Beneficios acumulados por mes.
-- Comparación de beneficios actuales vs año anterior.
-- Diferencias porcentuales de beneficios.
-- Rendimiento por categoría.
-- Tendencias de crecimiento y disminución.
-
-Además, se implementó:
-
-- Formato condicional en gráficos.
-- Segmentadores de fechas.
-- Visualizaciones interactivas.
-- Indicadores visuales positivos y negativos mediante colores.
-
----
 
 ## Objetivo del Proyecto
 
