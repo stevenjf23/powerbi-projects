@@ -10,7 +10,7 @@ El objetivo principal fue analizar beneficios acumulados, comparaciones contra e
 
 ## Vista del Proyecto
 
-![Dashboard Beneficios](./dashboard-beneficios.png)
+![Dashboard Beneficios](./imagen1.png)
 
 ---
 
